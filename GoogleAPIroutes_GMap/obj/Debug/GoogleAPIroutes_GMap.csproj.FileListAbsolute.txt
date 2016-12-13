@@ -1,0 +1,26 @@
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GoogleAPIroutes_GMap.exe
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GoogleAPIroutes_GMap.pdb
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.Core.dll
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.Core.xml
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.WindowsForms.xml
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.csprojResolveAssemblyReference.cache
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.Form1.resources
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.Properties.Resources.resources
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.csproj.GenerateResource.Cache
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.exe
+c:\users\boyko_ia\documents\visual studio 2012\Projects\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.pdb
+E:\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.exe
+E:\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.pdb
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.exe
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.pdb
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GoogleAPIroutes_GMap.exe
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GoogleAPIroutes_GMap.pdb
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.Form1.resources
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.Properties.Resources.resources
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\obj\Debug\GoogleAPIroutes_GMap.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\AjaxMin.dll
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.Core.dll
+C:\Users\Андрей\Desktop\GoogleAPIroutes_GMap\GoogleAPIroutes_GMap\bin\Debug\GMap.NET.WindowsForms.dll
